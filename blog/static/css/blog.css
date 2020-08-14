@@ -19,6 +19,9 @@ h1, h2, h3, h4 {
 }
 
 .date {
+	text-align: right;
+	float: right;
+	margin-right: 40px;
 	color: #FFC758;
 }
 
